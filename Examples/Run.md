@@ -12,7 +12,9 @@ shinyApp(ui, server)
 # run shiny app on github
 runGitHub()
 ```
-
+Run the app from Githib with code !
 ```r
-runGitHub("PsyChiLin/DataM_Talk_20180514")
+library(shiny)
+# runGitHub("PsyChiLin/DataM_Talk_20180514")
+runGitHub("PsyChiLin/DataM_Talk_20180514",display.mode = "showcase")
 ```
