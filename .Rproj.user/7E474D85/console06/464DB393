@@ -1,0 +1,32 @@
+-------- freesurfer-Darwin-OSX-stable-pub-v6.0.0-2beb96c --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /Applications/freesurfer
+FSFAST_HOME       /Applications/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /Applications/freesurfer/subjects
+MNI_DIR           /Applications/freesurfer/mni
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514[?1034hDataM_Talk_20180514$ [KDataM_Talk_20180514$ INIT[K[K[K[Kinit git
+bash: init: command not found
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514DataM_Talk_20180514$ git init
+Reinitialized existing Git repository in /Users/user/Dropbox/R_wd/DataM/DataM_Talk_20180514/.git/
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514DataM_Talk_20180514$ git initinit gitgit push -u origin master
+fatal: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': PSYCH     sy  Psyc Cho iLin
+fatal: cannot run rpostback-askpass: No such file or directory
+Password for 'https://PsyChiLin@github.com': 
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Everything up-to-date
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514DataM_Talk_20180514$ git push -u origin masterinit[Kinit gitgit push -u origin masterremote add origin https://github.com/PsyChiLin/DataM_Talk_201180514.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[39Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/PsyChiLin/DataM_Talk_201180514.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[39Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pll[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@sh -u[C[C[C[C[C[C[C[C[C[C[C[C[C[Cll[Ksh -u origin masterremote add origin https://github.com/PsyChiLin/DataM_Talk_201180514.git[A[C[C[C[C[C[C[C[C[C[C[Crm -rf .git[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote rm origin
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514DataM_Talk_20180514$ git remote rm originpush -u origin masterinit[Kinit gitgit push -u origin masterremote add origin https://github.com/PsyChiLin/DataM_Talk_201180514.git
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514DataM_Talk_20180514$ git remote add origin https://github.com/PsyChiLin/DataM_Talk_201180514.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush -u origin master
+fatal: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': PSY  syChiLin
+fatal: cannot run rpostback-askpass: No such file or directory
+Password for 'https://PsyChiLin@github.com': 
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Everything up-to-date
+]0;~/Dropbox/R_wd/DataM/DataM_Talk_20180514DataM_Talk_20180514$ 
